@@ -38,10 +38,10 @@ public class DepthFirstSearch {
 	MIA.connect(PBI);
 	
 	
-//		DFW---JFK---MIA---MCO
-//		 |     |     \	  /
-//		LAX   BOS      PBI
-//		/|\
+//	    DFW---JFK---MIA---MCO
+//	     |     |      \    /
+//	    LAX   BOS       PBI
+//	    /|\
 //	   / | \
 //	HNL SAN EWR
 	
